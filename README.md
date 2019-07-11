@@ -1,6 +1,8 @@
 # PS2KeyAdvanced
 ## Arduino PS2 Keyboard FULL keyboard protocol support and full keys to integer coding
 
+This supposed to be a port for ESP32
+
 **V1.0.4** Agust 2018 - Minor reduction in available() method to remove redundant extra safety checks on buffers
 
 V1.0.3 July 2018 Improved keywords file
